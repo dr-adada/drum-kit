@@ -1,2 +1,2 @@
 # drum-kit
-A drum kit website that outputs sound when a key is pressed.
+A drum kit website that responds to a key command with a drum sound.
